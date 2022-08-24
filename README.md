@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zsanda
 - 👀 I’m interested in bioinformatics, biology, and statistics.
 - 🌱 I mostly work in R, Python, SQL, HTML, CSS.
-- 💞️ I’m looking to collaborate on data science projects in the field of biology.
+- 💞️ I’m looking forward to collaborate on data science projects in the field of biology.
 - 📫 How to reach me ...
 
 <!---
